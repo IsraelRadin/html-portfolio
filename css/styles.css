@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+}
+img {
+    background-color: red;
+}
+.broccoli {
+    background-color: red;
+    height: 200px;
+}
+.bacon {
+    background-color: green;
+    height: 200px;
+    
+}
+.grey {
+    color: blue;
+}
+.yellow {
+    color: rgb(179, 179, 90);
+}
+.white {
+    color: purple;
+}
+#first-paragraph {
+  color: red;
+}
+#second-paragraph {
+    color: orange;
+}
+
